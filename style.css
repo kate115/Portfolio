@@ -8,3 +8,8 @@ body {
 a {
     color: rgb(48, 174, 216);
 }
+
+.article {
+    background-color: antiquewhite;
+    border-width: 25px;
+}
